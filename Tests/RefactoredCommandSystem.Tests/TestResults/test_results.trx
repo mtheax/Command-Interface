@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="48b0ada8-02aa-488d-9b94-5f9a82f88738" name="MtheAX@LENOVO-IDEAPAD- 2025-11-26 12:39:43" runUser="LENOVO-IDEAPAD-\MtheAX" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-11-26T12:39:43.5009992+03:00" queuing="2025-11-26T12:39:43.5009996+03:00" start="2025-11-26T12:39:42.4972771+03:00" finish="2025-11-26T12:39:43.5358500+03:00" />
+  <TestSettings name="default" id="60a1bee2-53e2-4e74-9b6d-7c1da48e99da">
+    <Deployment runDeploymentRoot="MtheAX_LENOVO-IDEAPAD-_2025-11-26_12_39_43" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="2e36f9d2-a002-45bc-9a99-2f883bf94e21" testId="b9729e4b-4c93-0e97-ab2d-ccc67af1f2fb" testName="RefactoredCommandSystem.Tests.Cli.CommandLine.CommandParserTests.Parse_PreservesQuotedArgumentsAsSingleToken" computerName="LENOVO-IDEAPAD-" duration="00:00:00.0006452" startTime="2025-11-26T12:39:43.4077944+03:00" endTime="2025-11-26T12:39:43.4077945+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2e36f9d2-a002-45bc-9a99-2f883bf94e21" />
+    <UnitTestResult executionId="9ed3b240-814b-45ff-aa38-885d15f88f84" testId="e10093ae-b2e9-2b28-1f7d-d351ef950045" testName="RefactoredCommandSystem.Tests.Application.CommandExecutorTests.ExecuteAll_InvokesExecuteOnEveryRegisteredCommand" computerName="LENOVO-IDEAPAD-" duration="00:00:00.0006728" startTime="2025-11-26T12:39:43.4475861+03:00" endTime="2025-11-26T12:39:43.4475865+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9ed3b240-814b-45ff-aa38-885d15f88f84" />
+    <UnitTestResult executionId="f2987560-c6d5-4c20-b2c7-9f19f4866144" testId="6594d68d-22f9-f2b7-85a4-d24bad269a1e" testName="RefactoredCommandSystem.Tests.Application.StructuredTextBuilderTests.AddParagraph_ComposesRunsInDocumentTree" computerName="LENOVO-IDEAPAD-" duration="00:00:00.1379986" startTime="2025-11-26T12:39:43.4443773+03:00" endTime="2025-11-26T12:39:43.4443776+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f2987560-c6d5-4c20-b2c7-9f19f4866144" />
+    <UnitTestResult executionId="f32a9fb9-f3a1-49f7-96f5-fb277e39328b" testId="aeb01fd2-1ab9-3c6c-c462-51a0cc0a4221" testName="RefactoredCommandSystem.Tests.Cli.CommandLine.CommandParserTests.Parse_SeparatesVerbArgumentsAndOptions" computerName="LENOVO-IDEAPAD-" duration="00:00:00.3631857" startTime="2025-11-26T12:39:43.4069495+03:00" endTime="2025-11-26T12:39:43.4069499+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f32a9fb9-f3a1-49f7-96f5-fb277e39328b" />
+    <UnitTestResult executionId="74ce8c95-b4f3-4955-bf95-50228120f50f" testId="e3c9935f-c671-a5ba-cf61-6c7dac708a09" testName="RefactoredCommandSystem.Tests.Application.CommandExecutorTests.ExecuteByName_FindsCommandAndLeavesOthersUntouched" computerName="LENOVO-IDEAPAD-" duration="00:00:00.4031443" startTime="2025-11-26T12:39:43.4468699+03:00" endTime="2025-11-26T12:39:43.4468702+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="74ce8c95-b4f3-4955-bf95-50228120f50f" />
+    <UnitTestResult executionId="3630020a-35af-4ee8-b98b-c9633d9694f4" testId="85f6111d-67dc-2d35-fdce-78144655d244" testName="RefactoredCommandSystem.Tests.Application.StructuredTextBuilderTests.UseRenderer_SwitchesRendererInstanceDuringBuild" computerName="LENOVO-IDEAPAD-" duration="00:00:00.0068962" startTime="2025-11-26T12:39:43.4728046+03:00" endTime="2025-11-26T12:39:43.4728047+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3630020a-35af-4ee8-b98b-c9633d9694f4" />
+    <UnitTestResult executionId="389c17ab-22d9-4300-b1a1-c7e5693a54b0" testId="097d77b2-d27e-13e2-658a-e3d2ae199cc1" testName="RefactoredCommandSystem.Tests.Application.CommandExecutorTests.ExecuteByName_WhenCommandMissing_WritesFriendlyMessage" computerName="LENOVO-IDEAPAD-" duration="00:00:00.0011788" startTime="2025-11-26T12:39:43.4726684+03:00" endTime="2025-11-26T12:39:43.4726686+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="389c17ab-22d9-4300-b1a1-c7e5693a54b0" />
+    <UnitTestResult executionId="d3602e1e-fdad-4db8-8819-cb945490502a" testId="7d8f3258-8450-1365-0fdb-695e5284f828" testName="RefactoredCommandSystem.Tests.Cli.CommandLine.CommandParserTests.Parse_ReturnsNull_WhenInputIsEmpty" computerName="LENOVO-IDEAPAD-" duration="00:00:00.0001002" startTime="2025-11-26T12:39:43.4070933+03:00" endTime="2025-11-26T12:39:43.4070934+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d3602e1e-fdad-4db8-8819-cb945490502a" />
+    <UnitTestResult executionId="e82127d6-4f1b-4565-9a2c-09ed8c8128c2" testId="d065e448-651d-2a54-c61b-b2d12ee5c823" testName="RefactoredCommandSystem.Tests.Infrastructure.ExternalApi.GenshinDataServiceTests.GetAllCharactersAsync_MapsDtoToDomain" computerName="LENOVO-IDEAPAD-" duration="00:00:00.3586229" startTime="2025-11-26T12:39:43.4024599+03:00" endTime="2025-11-26T12:39:43.4024607+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e82127d6-4f1b-4565-9a2c-09ed8c8128c2" />
+    <UnitTestResult executionId="e014ad59-cef2-40fe-aa9f-d9ce65022f28" testId="19477113-ea41-b28a-bb04-049a985191ca" testName="RefactoredCommandSystem.Tests.Application.StructuredTextBuilderTests.Build_UsesRendererPipelineToProduceTextOutput" computerName="LENOVO-IDEAPAD-" duration="00:00:00.2595714" startTime="2025-11-26T12:39:43.3068385+03:00" endTime="2025-11-26T12:39:43.3068530+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e014ad59-cef2-40fe-aa9f-d9ce65022f28" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="RefactoredCommandSystem.Tests.Infrastructure.ExternalApi.GenshinDataServiceTests.GetAllCharactersAsync_MapsDtoToDomain" storage="c:\users\mtheax\downloads\командний інтерфейс додатку\tests\refactoredcommandsystem.tests\bin\debug\net8.0\refactoredcommandsystem.tests.dll" id="d065e448-651d-2a54-c61b-b2d12ee5c823">
+      <Execution id="e82127d6-4f1b-4565-9a2c-09ed8c8128c2" />
+      <TestMethod codeBase="C:\Users\MtheAX\Downloads\Командний інтерфейс додатку\Tests\RefactoredCommandSystem.Tests\bin\Debug\net8.0\RefactoredCommandSystem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="RefactoredCommandSystem.Tests.Infrastructure.ExternalApi.GenshinDataServiceTests" name="GetAllCharactersAsync_MapsDtoToDomain" />
+    </UnitTest>
+    <UnitTest name="RefactoredCommandSystem.Tests.Application.CommandExecutorTests.ExecuteByName_FindsCommandAndLeavesOthersUntouched" storage="c:\users\mtheax\downloads\командний інтерфейс додатку\tests\refactoredcommandsystem.tests\bin\debug\net8.0\refactoredcommandsystem.tests.dll" id="e3c9935f-c671-a5ba-cf61-6c7dac708a09">
+      <Execution id="74ce8c95-b4f3-4955-bf95-50228120f50f" />
+      <TestMethod codeBase="C:\Users\MtheAX\Downloads\Командний інтерфейс додатку\Tests\RefactoredCommandSystem.Tests\bin\Debug\net8.0\RefactoredCommandSystem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="RefactoredCommandSystem.Tests.Application.CommandExecutorTests" name="ExecuteByName_FindsCommandAndLeavesOthersUntouched" />
+    </UnitTest>
+    <UnitTest name="RefactoredCommandSystem.Tests.Cli.CommandLine.CommandParserTests.Parse_SeparatesVerbArgumentsAndOptions" storage="c:\users\mtheax\downloads\командний інтерфейс додатку\tests\refactoredcommandsystem.tests\bin\debug\net8.0\refactoredcommandsystem.tests.dll" id="aeb01fd2-1ab9-3c6c-c462-51a0cc0a4221">
+      <Execution id="f32a9fb9-f3a1-49f7-96f5-fb277e39328b" />
+      <TestMethod codeBase="C:\Users\MtheAX\Downloads\Командний інтерфейс додатку\Tests\RefactoredCommandSystem.Tests\bin\Debug\net8.0\RefactoredCommandSystem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="RefactoredCommandSystem.Tests.Cli.CommandLine.CommandParserTests" name="Parse_SeparatesVerbArgumentsAndOptions" />
+    </UnitTest>
+    <UnitTest name="RefactoredCommandSystem.Tests.Application.StructuredTextBuilderTests.AddParagraph_ComposesRunsInDocumentTree" storage="c:\users\mtheax\downloads\командний інтерфейс додатку\tests\refactoredcommandsystem.tests\bin\debug\net8.0\refactoredcommandsystem.tests.dll" id="6594d68d-22f9-f2b7-85a4-d24bad269a1e">
+      <Execution id="f2987560-c6d5-4c20-b2c7-9f19f4866144" />
+      <TestMethod codeBase="C:\Users\MtheAX\Downloads\Командний інтерфейс додатку\Tests\RefactoredCommandSystem.Tests\bin\Debug\net8.0\RefactoredCommandSystem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="RefactoredCommandSystem.Tests.Application.StructuredTextBuilderTests" name="AddParagraph_ComposesRunsInDocumentTree" />
+    </UnitTest>
+    <UnitTest name="RefactoredCommandSystem.Tests.Application.StructuredTextBuilderTests.Build_UsesRendererPipelineToProduceTextOutput" storage="c:\users\mtheax\downloads\командний інтерфейс додатку\tests\refactoredcommandsystem.tests\bin\debug\net8.0\refactoredcommandsystem.tests.dll" id="19477113-ea41-b28a-bb04-049a985191ca">
+      <Execution id="e014ad59-cef2-40fe-aa9f-d9ce65022f28" />
+      <TestMethod codeBase="C:\Users\MtheAX\Downloads\Командний інтерфейс додатку\Tests\RefactoredCommandSystem.Tests\bin\Debug\net8.0\RefactoredCommandSystem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="RefactoredCommandSystem.Tests.Application.StructuredTextBuilderTests" name="Build_UsesRendererPipelineToProduceTextOutput" />
+    </UnitTest>
+    <UnitTest name="RefactoredCommandSystem.Tests.Application.StructuredTextBuilderTests.UseRenderer_SwitchesRendererInstanceDuringBuild" storage="c:\users\mtheax\downloads\командний інтерфейс додатку\tests\refactoredcommandsystem.tests\bin\debug\net8.0\refactoredcommandsystem.tests.dll" id="85f6111d-67dc-2d35-fdce-78144655d244">
+      <Execution id="3630020a-35af-4ee8-b98b-c9633d9694f4" />
+      <TestMethod codeBase="C:\Users\MtheAX\Downloads\Командний інтерфейс додатку\Tests\RefactoredCommandSystem.Tests\bin\Debug\net8.0\RefactoredCommandSystem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="RefactoredCommandSystem.Tests.Application.StructuredTextBuilderTests" name="UseRenderer_SwitchesRendererInstanceDuringBuild" />
+    </UnitTest>
+    <UnitTest name="RefactoredCommandSystem.Tests.Cli.CommandLine.CommandParserTests.Parse_PreservesQuotedArgumentsAsSingleToken" storage="c:\users\mtheax\downloads\командний інтерфейс додатку\tests\refactoredcommandsystem.tests\bin\debug\net8.0\refactoredcommandsystem.tests.dll" id="b9729e4b-4c93-0e97-ab2d-ccc67af1f2fb">
+      <Execution id="2e36f9d2-a002-45bc-9a99-2f883bf94e21" />
+      <TestMethod codeBase="C:\Users\MtheAX\Downloads\Командний інтерфейс додатку\Tests\RefactoredCommandSystem.Tests\bin\Debug\net8.0\RefactoredCommandSystem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="RefactoredCommandSystem.Tests.Cli.CommandLine.CommandParserTests" name="Parse_PreservesQuotedArgumentsAsSingleToken" />
+    </UnitTest>
+    <UnitTest name="RefactoredCommandSystem.Tests.Application.CommandExecutorTests.ExecuteAll_InvokesExecuteOnEveryRegisteredCommand" storage="c:\users\mtheax\downloads\командний інтерфейс додатку\tests\refactoredcommandsystem.tests\bin\debug\net8.0\refactoredcommandsystem.tests.dll" id="e10093ae-b2e9-2b28-1f7d-d351ef950045">
+      <Execution id="9ed3b240-814b-45ff-aa38-885d15f88f84" />
+      <TestMethod codeBase="C:\Users\MtheAX\Downloads\Командний інтерфейс додатку\Tests\RefactoredCommandSystem.Tests\bin\Debug\net8.0\RefactoredCommandSystem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="RefactoredCommandSystem.Tests.Application.CommandExecutorTests" name="ExecuteAll_InvokesExecuteOnEveryRegisteredCommand" />
+    </UnitTest>
+    <UnitTest name="RefactoredCommandSystem.Tests.Application.CommandExecutorTests.ExecuteByName_WhenCommandMissing_WritesFriendlyMessage" storage="c:\users\mtheax\downloads\командний інтерфейс додатку\tests\refactoredcommandsystem.tests\bin\debug\net8.0\refactoredcommandsystem.tests.dll" id="097d77b2-d27e-13e2-658a-e3d2ae199cc1">
+      <Execution id="389c17ab-22d9-4300-b1a1-c7e5693a54b0" />
+      <TestMethod codeBase="C:\Users\MtheAX\Downloads\Командний інтерфейс додатку\Tests\RefactoredCommandSystem.Tests\bin\Debug\net8.0\RefactoredCommandSystem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="RefactoredCommandSystem.Tests.Application.CommandExecutorTests" name="ExecuteByName_WhenCommandMissing_WritesFriendlyMessage" />
+    </UnitTest>
+    <UnitTest name="RefactoredCommandSystem.Tests.Cli.CommandLine.CommandParserTests.Parse_ReturnsNull_WhenInputIsEmpty" storage="c:\users\mtheax\downloads\командний інтерфейс додатку\tests\refactoredcommandsystem.tests\bin\debug\net8.0\refactoredcommandsystem.tests.dll" id="7d8f3258-8450-1365-0fdb-695e5284f828">
+      <Execution id="d3602e1e-fdad-4db8-8819-cb945490502a" />
+      <TestMethod codeBase="C:\Users\MtheAX\Downloads\Командний інтерфейс додатку\Tests\RefactoredCommandSystem.Tests\bin\Debug\net8.0\RefactoredCommandSystem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="RefactoredCommandSystem.Tests.Cli.CommandLine.CommandParserTests" name="Parse_ReturnsNull_WhenInputIsEmpty" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="b9729e4b-4c93-0e97-ab2d-ccc67af1f2fb" executionId="2e36f9d2-a002-45bc-9a99-2f883bf94e21" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e10093ae-b2e9-2b28-1f7d-d351ef950045" executionId="9ed3b240-814b-45ff-aa38-885d15f88f84" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6594d68d-22f9-f2b7-85a4-d24bad269a1e" executionId="f2987560-c6d5-4c20-b2c7-9f19f4866144" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aeb01fd2-1ab9-3c6c-c462-51a0cc0a4221" executionId="f32a9fb9-f3a1-49f7-96f5-fb277e39328b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e3c9935f-c671-a5ba-cf61-6c7dac708a09" executionId="74ce8c95-b4f3-4955-bf95-50228120f50f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="85f6111d-67dc-2d35-fdce-78144655d244" executionId="3630020a-35af-4ee8-b98b-c9633d9694f4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="097d77b2-d27e-13e2-658a-e3d2ae199cc1" executionId="389c17ab-22d9-4300-b1a1-c7e5693a54b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7d8f3258-8450-1365-0fdb-695e5284f828" executionId="d3602e1e-fdad-4db8-8819-cb945490502a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d065e448-651d-2a54-c61b-b2d12ee5c823" executionId="e82127d6-4f1b-4565-9a2c-09ed8c8128c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="19477113-ea41-b28a-bb04-049a985191ca" executionId="e014ad59-cef2-40fe-aa9f-d9ce65022f28" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="10" executed="10" passed="10" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.5.3.1+6b60a9e56a (64-bit .NET 8.0.22)&#xD;
+[xUnit.net 00:00:00.07]   Discovering: RefactoredCommandSystem.Tests&#xD;
+[xUnit.net 00:00:00.10]   Discovered:  RefactoredCommandSystem.Tests&#xD;
+[xUnit.net 00:00:00.10]   Starting:    RefactoredCommandSystem.Tests&#xD;
+[xUnit.net 00:00:00.57]   Finished:    RefactoredCommandSystem.Tests&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.ExternalApi;
 
-public class GenshinClient
+public class GenshinClient : IGenshinClient
 {
     private readonly HttpClient _http = new();
 

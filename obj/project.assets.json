@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MtheAX\\Downloads\\Передача даних\\RefactoredCommandSystem.csproj",
+      "projectUniqueName": "C:\\Users\\MtheAX\\Downloads\\Командний інтерфейс додатку\\RefactoredCommandSystem.csproj",
       "projectName": "RefactoredCommandSystem",
-      "projectPath": "C:\\Users\\MtheAX\\Downloads\\Передача даних\\RefactoredCommandSystem.csproj",
+      "projectPath": "C:\\Users\\MtheAX\\Downloads\\Командний інтерфейс додатку\\RefactoredCommandSystem.csproj",
       "packagesPath": "C:\\Users\\MtheAX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MtheAX\\Downloads\\Передача даних\\obj\\",
+      "outputPath": "C:\\Users\\MtheAX\\Downloads\\Командний інтерфейс додатку\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MtheAX\\AppData\\Roaming\\NuGet\\NuGet.Config"
